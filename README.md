@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MccDom1
+- 👋 Hi, I’m Dominique!
 - 👀 I’m interested in ... Projects that contiue to develop my overall skill as a Software dev.
 - 🌱 I’m currently learning ...Python, JAVA, HTML
 - 💞️ I’m looking to collaborate on ... anything and everything!
-- 📫 How to reach me ...
+- 📫 How to reach me ...mcclaneydominique@gmail.com
 
 <!---
 MccDom1/MccDom1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
