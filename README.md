@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Dominique!
-- 👀 I’m interested in ... Projects that contiue to develop my overall skill as a Software dev.
-- 🌱 I’m currently learning ...Python, JAVA, HTML
 - 💞️ I’m looking to collaborate on ... anything and everything!
 - 📫 How to reach me ...mcclaneydominique@gmail.com www.linkedin.com/in/dominique-mcclaney
 
