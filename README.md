@@ -1,12 +1,15 @@
 # 👋 Hi, I'm Dominique McClaney
 
+
+### 💡 Philosophy
+
+> “The people who are crazy enough to think they can change the world are the ones who do.”  
+
 🚀 **C# Cloud Application Developer (Microsoft MSSA)**  
 🧠 **AI / ML | Computer Vision | Deep Learning**  
 ☁️ **Azure | .NET | Cloud-Native Systems**
 
 > Building intelligent, scalable software that bridges **cloud engineering** and **AI-driven systems**.
-
----
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominique-mcclaney)
@@ -22,16 +25,6 @@
 ![AI](https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-00C853?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-ML-3670A0?style=flat-square&logo=python)
-
----
-
-## ⭐ Featured Focus Areas
-- 🛠️ **C# / .NET Cloud Application Development**
-- 🧠 **Artificial Intelligence & Machine Learning**
-- 👁️ **Computer Vision & Deep Learning**
-- ☁️ **Azure-based AI Systems**
-- ⚙️ **Scalable Software Architecture**
-
 ## 🏅 GitHub Achievements
 
 <p align="left">
@@ -45,7 +38,19 @@
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
   </a>
 </p>
+---
 
+## ⭐ Featured Focus Areas
+- 🛠️ **C# / .NET Cloud Application Development**           
+- 🧠 **Artificial Intelligence & Machine Learning**
+- 👁️ **Computer Vision & Deep Learning**
+- ☁️ **Azure-based AI Systems**
+- ⚙️ **Scalable Software Architecture**
+
+  ## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MccDom1&theme=panda&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MccDom1&theme=panda&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MccDom1&theme=panda&hide_border=false&layout=compact)
 
 ---
 
@@ -109,33 +114,28 @@ I’m driven by building **intelligent systems that combine software engineering
 ---
 
 ## 💻 Full Tech Stack
-<details>
-<summary><strong>Click to expand</strong></summary>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<summary>
+  
+**Languages**  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-</details>
+**Cloud & DevOps**  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
----
+**Frameworks & Backend**  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=MccDom1&theme=panda&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=MccDom1&theme=panda&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MccDom1&theme=panda&hide_border=false&layout=compact)
+**AI / Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
----
+**Databases**  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MccDom1&theme=panda&margin-w=6)
+**Tools & Design**  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
+</summary>
 ---
 
 ### ✍️ Random Dev Quote
@@ -143,30 +143,8 @@ I’m driven by building **intelligent systems that combine software engineering
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=MccDom1&icon=2&color=3)](https://visitcount.itsvg.in)
 
 
-### 💡 Philosophy
-
-> “The people who are crazy enough to think they can change the world are the ones who do.”  
-— **:contentReference[oaicite:0]{index=0}**
 
 
-## 🧭 Recruiter Path (Start Here)
 
-If you're a recruiter or hiring manager, here’s the fastest way to understand my work:
-
-1️⃣ **Profile Overview**  
-→ This README: focus areas, tech stack, and engineering direction
-
-2️⃣ **Pinned Repositories**  
-→ AI, Cloud, and C# projects demonstrating real-world problem solving
-
-3️⃣ **Commit History & PRs**  
-→ Consistent contributions, collaboration, and iteration
-
-4️⃣ **GitHub Stats & Achievements**  
-→ Active development and sustained engagement
-
-5️⃣ **LinkedIn**  
-→ Background, experience, and professional context
