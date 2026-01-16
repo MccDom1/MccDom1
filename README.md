@@ -1,31 +1,132 @@
-# 💫 About Me:
-👋 About Me<br>🛠️ Currently Working On<br><br>Microsoft MSSA – C# Cloud Application Development<br><br>Designing and building cloud-native applications using C#, .NET, and Azure<br><br>Applying software engineering best practices to create scalable, maintainable systems<br><br>🚀 Areas of Focus<br><br>Artificial Intelligence & Machine Learning<br><br>Software Architecture / Software Development Life Cycle<br><br>Computer Vision (image & video analysis, object detection)<br><br>Deep Learning & Neural Networks<br><br>Cloud-based AI application development<br><br>🤝 Open to Collaborate On<br><br>AI / ML engineering projects<br><br>Computer Vision and deep learning applications<br><br>Cloud-deployed ML systems and automation tools<br><br>Open-source projects with real-world impact<br><br>🌱 Actively Learning<br><br>Advanced deep learning architectures<br><br>Neural networks and model optimization<br><br>End-to-end AI pipelines (training → deployment)<br><br>MLOps concepts and cloud-scale AI solutions<br><br>💬 Ask Me About<br><br>C# / .NET development<br><br>Cloud application architecture<br><br>AI, Computer Vision, and Neural Networks<br><br>Integrating machine learning into production systems<br><br>⚡ Fun Fact<br><br>I’m driven by building intelligent systems that combine software engineering with AI, turning complex models into usable, real-world solutions.👋 About Me<br>🛠️ Currently Working On<br><br>Microsoft MSSA – C# Cloud Application Development<br><br>Designing and building cloud-native applications using C#, .NET, and Azure<br><br>Applying software engineering best practices to create scalable, maintainable systems<br><br>🚀 Areas of Focus<br><br>Artificial Intelligence & Machine Learning<br><br>Computer Vision (image & video analysis, object detection)<br><br>Deep Learning & Neural Networks<br><br>Cloud-based AI application development<br><br>🤝 Open to Collaborate On<br><br>AI / ML engineering projects<br><br>Computer Vision and deep learning applications<br><br>Cloud-deployed ML systems and automation tools<br><br>Open-source projects with real-world impact<br><br>🌱 Actively Learning<br><br>Advanced deep learning architectures<br><br>Neural networks and model optimization<br><br>End-to-end AI pipelines (training → deployment)<br><br>MLOps concepts and cloud-scale AI solutions<br><br>💬 Ask Me About<br><br>C# / .NET development<br><br>Cloud application architecture<br><br>AI, Computer Vision, and Neural Networks<br><br>Integrating machine learning into production systems<br><br>⚡ Fun Fact<br><br>I’m driven by building intelligent systems that combine software engineering with AI, turning complex models into usable, real-world solutions.
+# 👋 Hi, I'm Dominique McClaney
 
+🚀 **C# Cloud Application Developer (Microsoft MSSA)**  
+🧠 **AI / ML | Computer Vision | Deep Learning**  
+☁️ **Azure | .NET | Cloud-Native Systems**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/fy3BUCvK) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dominique-mcclaney) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@dbecooking) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcclaneydominique@gmail.com) 
+> Building intelligent, scalable software that bridges **cloud engineering** and **AI-driven systems**.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MccDom1&theme=panda&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MccDom1&theme=panda&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MccDom1&theme=panda&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+
+## 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominique-mcclaney)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@dbecooking)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/fy3BUCvK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mcclaneydominique@gmail.com)
+
+---
+
+## 🧠 Core Skills Snapshot
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=csharp)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=flat-square&logo=microsoftazure)
+![AI](https://img.shields.io/badge/AI-Machine%20Learning-FF6F00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Deep%20Learning-00C853?style=flat-square)
+![Python](https://img.shields.io/badge/Python-ML-3670A0?style=flat-square&logo=python)
+
+---
+
+## ⭐ Featured Focus Areas
+- 🛠️ **C# / .NET Cloud Application Development**
+- 🧠 **Artificial Intelligence & Machine Learning**
+- 👁️ **Computer Vision & Deep Learning**
+- ☁️ **Azure-based AI Systems**
+- ⚙️ **Scalable Software Architecture**
+
+---
+
+<details>
+<summary><strong>🛠️ Currently Working On</strong></summary>
+
+- **Microsoft MSSA – C# Cloud Application Development**
+- Designing and building **cloud-native applications** using **C#, .NET, and Azure**
+- Applying software engineering best practices to create **scalable, maintainable systems**
+
+</details>
+
+<details>
+<summary><strong>🚀 Areas of Focus</strong></summary>
+
+- Artificial Intelligence & Machine Learning  
+- Software Architecture / Software Development Life Cycle  
+- Computer Vision (image & video analysis, object detection)  
+- Deep Learning & Neural Networks  
+- Cloud-based AI application development  
+
+</details>
+
+<details>
+<summary><strong>🤝 Open to Collaborate On</strong></summary>
+
+- AI / ML engineering projects  
+- Computer Vision and deep learning applications  
+- Cloud-deployed ML systems and automation tools  
+- Open-source projects with real-world impact  
+
+</details>
+
+<details>
+<summary><strong>🌱 Actively Learning</strong></summary>
+
+- Advanced deep learning architectures  
+- Neural networks and model optimization  
+- End-to-end AI pipelines (training → deployment)  
+- MLOps concepts and cloud-scale AI solutions  
+
+</details>
+
+<details>
+<summary><strong>💬 Ask Me About</strong></summary>
+
+- C# / .NET development  
+- Cloud application architecture  
+- AI, Computer Vision, and Neural Networks  
+- Integrating machine learning into production systems  
+
+</details>
+
+<details>
+<summary><strong>⚡ Fun Fact</strong></summary>
+
+I’m driven by building **intelligent systems that combine software engineering with AI**, turning complex models into **usable, real-world solutions**.
+
+</details>
+
+---
+
+## 💻 Full Tech Stack
+<details>
+<summary><strong>Click to expand</strong></summary>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=MccDom1&theme=panda&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=MccDom1&theme=panda&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MccDom1&theme=panda&hide_border=false&layout=compact)
+
+---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MccDom1&theme=panda&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MccDom1&theme=panda&margin-w=6)
+
+---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MccDom1&limit=5&theme=panda&combine_all_yearly_contributions=true)
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=MccDom1&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-MccDom1/MccDom1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
