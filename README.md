@@ -1,12 +1,24 @@
-# 👋 Hi, I'm Dominique McClaney
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:312e81&height=110&section=header"/>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%23+Cloud+Application+Developer;AI+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Neural+Networks;Building+Scalable+Cloud-Native+Systems" />
+</p>
+
+
+   <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=8B5CF6&center=true&vCenter=true&width=720&lines=C%23+Cloud+Application+Developer;AI+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Neural+Networks;Azure+%7C+.NET+%7C+ML+Systems" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=4"/>
+
+
+# 👋 Hi, I'm Dominique McClaney
 
 ### 💡 Philosophy
 
 > “The people who are crazy enough to think they can change the world are the ones who do.”  
 
-🚀 **C# Cloud Application Developer (Microsoft MSSA)**  
-🧠 **AI / ML | Computer Vision | Deep Learning**  
+🚀 **C# Cloud Application Developer (Microsoft MSSA)**  🧠 **AI / ML | Computer Vision | Deep Learning**  
 ☁️ **Azure | .NET | Cloud-Native Systems**
 
 > Building intelligent, scalable software that bridges **cloud engineering** and **AI-driven systems**.
