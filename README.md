@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:312e81&height=110&section=header"/>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%23+Cloud+Application+Developer;AI+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Neural+Networks;Building+Scalable+Cloud-Native+Systems" />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MccDom1/MccDom1/main/github-header-banner.png" />
+</p>
 
    <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2500&color=8B5CF6&center=true&vCenter=true&width=720&lines=C%23+Cloud+Application+Developer;AI+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Neural+Networks;Azure+%7C+.NET+%7C+ML+Systems" />
