@@ -32,6 +32,21 @@
 - ☁️ **Azure-based AI Systems**
 - ⚙️ **Scalable Software Architecture**
 
+## 🏅 GitHub Achievements
+
+<p align="left">
+  <a href="https://github.com/users/MccDom1/achievements/quickdraw">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
+  </a>
+  <a href="https://github.com/users/MccDom1/achievements/pull-shark">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
+  </a>
+  <a href="https://github.com/users/MccDom1/achievements/yolo">
+    <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
+  </a>
+</p>
+
+
 ---
 
 <details>
@@ -130,3 +145,28 @@ I’m driven by building **intelligent systems that combine software engineering
 
 [![](https://visitcount.itsvg.in/api?id=MccDom1&icon=2&color=3)](https://visitcount.itsvg.in)
 
+
+### 💡 Philosophy
+
+> “The people who are crazy enough to think they can change the world are the ones who do.”  
+— **:contentReference[oaicite:0]{index=0}**
+
+
+## 🧭 Recruiter Path (Start Here)
+
+If you're a recruiter or hiring manager, here’s the fastest way to understand my work:
+
+1️⃣ **Profile Overview**  
+→ This README: focus areas, tech stack, and engineering direction
+
+2️⃣ **Pinned Repositories**  
+→ AI, Cloud, and C# projects demonstrating real-world problem solving
+
+3️⃣ **Commit History & PRs**  
+→ Consistent contributions, collaboration, and iteration
+
+4️⃣ **GitHub Stats & Achievements**  
+→ Active development and sustained engagement
+
+5️⃣ **LinkedIn**  
+→ Background, experience, and professional context
