@@ -14,7 +14,7 @@
 
 # 👋 Hi, I'm Dominique McClaney
 
-### 💡 Philosophy
+### 💡 My Philosophy
 
 > “The people who are crazy enough to think they can change the world are the ones who do.”  
 
