@@ -84,7 +84,7 @@
 - Deep Learning & Neural Networks  
 - Cloud-based AI application development  
 
-</details
+</details>
 
 <details>
 <summary><strong>🤝 Open to Collaborate On</strong></summary>
