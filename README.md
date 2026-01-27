@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%23+Cloud+Application+Developer;AI+%26+Computer+Vision+Engineer;Deep+Learning+%7C+Neural+Networks;Building+Scalable+Cloud-Native+Systems" />
 </p>
 <p align="center">
