@@ -42,7 +42,7 @@
 <p align="left">
   <a href="https://github.com/users/MccDom1/achievements/quickdraw">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
-  </a
+  </a>
   <a href="https://github.com/users/MccDom1/achievements/pull-shark">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
   </a>
