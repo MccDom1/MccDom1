@@ -76,7 +76,7 @@
 </details>
 
 <details>
-<summary><strong>🚀 Areas of Focus</strong></summary
+<summary><strong>🚀 Areas of Focus</strong></summary>
 
 - Artificial Intelligence & Machine Learning  
 - Software Architecture / Software Development Life Cycle  
