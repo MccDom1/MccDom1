@@ -39,7 +39,7 @@
 ![Python](https://img.shields.io/badge/Python-ML-3670A0?style=flat-square&logo=python)
 ## 🏅 GitHub Achievements
 
-<p align="left"
+<p align="left">
   <a href="https://github.com/users/MccDom1/achievements/quickdraw">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw"/>
   </a>
