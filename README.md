@@ -49,7 +49,7 @@
   <a href="https://github.com/users/MccDom1/achievements/yolo">
     <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO"/>
   </a>
-</p>
+</p
 ---
 
 ## ⭐ Featured Focus Areas
