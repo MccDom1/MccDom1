@@ -18,7 +18,7 @@
 
 > “The people who are crazy enough to think they can change the world are the ones who do.”  
 
-🚀 **C# Cloud Application Developer (Microsoft MSSA)**  🧠 **AI / ML | Computer Vision | Deep Learning**  
+🚀 **C# Cloud Application Developer (Microsoft MSSA)** | AI Engineer 🧠 **AI / ML | Computer Vision | Deep Learning**  
 ☁️ **Azure | .NET | Cloud-Native Systems**
 
 > Building intelligent, scalable software that bridges **cloud engineering** and **AI-driven systems**.
