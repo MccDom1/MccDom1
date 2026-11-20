@@ -12,7 +12,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=4"/>
 
 
-# 👋 Hi, I'm Dominique McClaney
+# 👋 Hi, I'm Dominique McClane
 
 ### 💡 My Philosophy
 
