@@ -23,7 +23,7 @@
 
 > Building intelligent, scalable software that bridges **cloud engineering** and **AI-driven systems**.
 
-## 🔗 Connect With M
+## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dominique-mcclaney)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@dbecooking)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/fy3BUCvK)
